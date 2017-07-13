@@ -1,0 +1,11 @@
+c:\users\vbh7001\documents\visual studio 2017\Projects\js.advent\js.advent.webapi\bin\Debug\netcoreapp1.1\js.advent.webapi.deps.json
+c:\users\vbh7001\documents\visual studio 2017\Projects\js.advent\js.advent.webapi\bin\Debug\netcoreapp1.1\js.advent.webapi.runtimeconfig.json
+c:\users\vbh7001\documents\visual studio 2017\Projects\js.advent\js.advent.webapi\bin\Debug\netcoreapp1.1\js.advent.webapi.runtimeconfig.dev.json
+c:\users\vbh7001\documents\visual studio 2017\Projects\js.advent\js.advent.webapi\bin\Debug\netcoreapp1.1\js.advent.webapi.dll
+c:\users\vbh7001\documents\visual studio 2017\Projects\js.advent\js.advent.webapi\bin\Debug\netcoreapp1.1\js.advent.webapi.pdb
+c:\users\vbh7001\documents\visual studio 2017\Projects\js.advent\js.advent.webapi\bin\Debug\netcoreapp1.1\js.advent.model.dll
+c:\users\vbh7001\documents\visual studio 2017\Projects\js.advent\js.advent.webapi\bin\Debug\netcoreapp1.1\js.advent.model.pdb
+c:\users\vbh7001\documents\visual studio 2017\Projects\js.advent\js.advent.webapi\obj\Debug\netcoreapp1.1\js.advent.webapi.csprojResolveAssemblyReference.cache
+c:\users\vbh7001\documents\visual studio 2017\Projects\js.advent\js.advent.webapi\obj\Debug\netcoreapp1.1\js.advent.webapi.AssemblyInfo.cs
+c:\users\vbh7001\documents\visual studio 2017\Projects\js.advent\js.advent.webapi\obj\Debug\netcoreapp1.1\js.advent.webapi.dll
+c:\users\vbh7001\documents\visual studio 2017\Projects\js.advent\js.advent.webapi\obj\Debug\netcoreapp1.1\js.advent.webapi.pdb
